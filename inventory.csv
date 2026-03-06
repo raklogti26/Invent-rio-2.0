@@ -1,0 +1,2 @@
+Hostname,IP,SO,Ambiente,Status,Local,Responsavel,UltimoInventario
+server01,192.168.0.10,Windows,PRD,Ativo,DataCenter1,Mateus,2026-03-01
